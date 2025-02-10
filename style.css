@@ -1,0 +1,48 @@
+header{
+    background-color: #ffffff;
+    padding-bottom: 30px;
+
+
+}
+header>h1{
+    font-weight: 600;
+    font-size: 36px;
+    font-family: inter;
+    text-align: center;
+    padding-top: 30px;
+    
+}
+header>p{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    font-style: normal;
+    font-family: inter;
+}
+article{
+    background-color: #F8FAFC;
+    padding-top: 30px;
+    padding-left: 350px;
+    padding-right: 270px;
+}
+article>h2{
+    font-size: 24px;
+    font-weight: 600;
+    font-family: inter;
+
+}
+article>p{
+    font-size: 1rem;
+    font-weight: 400;
+    font-family: inter;
+}
+span{
+    color: #4E80EE;
+}
+hr{
+    opacity: 30%;
+}
+li{
+    padding-bottom: 10px;
+    font-size: 16px;
+}
